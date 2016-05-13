@@ -1,2 +1,2 @@
 # Flex-layout-for-ctrip
- practice
+ a practice of Flex-layout
